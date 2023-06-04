@@ -1,1 +1,1 @@
-# Hotel-Booking-Churn
+# ml_pipeline_project
