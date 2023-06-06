@@ -14,7 +14,7 @@ def get_requriments(filepath:str)->List[str]:
             requirements.remove(HYPHON_E_DOT)
 
 
-setup(name='Hotel-Booking-Churn',
+setup(name='ML_PIPELINE_PROJECT',
       version='0.0.1',
       description='Machine Learning pipeline project',
       author='Geeta Keote',
