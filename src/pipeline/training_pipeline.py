@@ -14,4 +14,4 @@ if __name__ == "__main__":
     model_training = ModelTrainer()
     model_training.inititate_model_trainer(train_arr, test_arr)
 
-    # src\pipeline\training_pipeline.py 
+    # src\pipeline\training_pipeline.py

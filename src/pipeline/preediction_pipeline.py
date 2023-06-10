@@ -1,5 +1,4 @@
 
-
 # Create prediction peipeline class -> completed
 # create function for load a object -> completed
 # Create custome class basd upon our dataset -> completed
